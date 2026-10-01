@@ -1,0 +1,6 @@
+{
+  "name": "Auto Translate Bot",
+  "description": "A Telegram bot that automatically translates captions and text messages in PMs and channels to English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

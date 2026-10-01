@@ -1,0 +1,8 @@
+{
+  "batchCaptionEnabled": true,
+  "batchTimeWindowMs": 2500,
+  "captionPrefix": "",
+  "captionSuffix": "",
+  "dumpChannelId": "-1003817342725",
+  "dumpChannelEnabled": true
+}
